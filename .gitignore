@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+*.log
+tmp/*
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.rspec2
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> 0f7ab68e869a0f061857864676071996fcf5b5d4
